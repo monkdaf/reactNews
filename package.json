@@ -1,0 +1,14 @@
+{
+  "name": "reactNews",
+  "version": "0.0.1",
+  "description": "Небольшой проект для изучения ReactJS",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dmitry Fil",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
